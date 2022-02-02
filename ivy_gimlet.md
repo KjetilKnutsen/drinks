@@ -1,5 +1,6 @@
 # Ivy Gimlet
----
+
+ * [ ] Skal shakes
 
 ## Ingridienser
 * Ferske Mintblad

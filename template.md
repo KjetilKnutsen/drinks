@@ -1,5 +1,4 @@
-# Floridora
----
+# Template
 
  * [ ] Skal shakes
 

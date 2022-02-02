@@ -1,6 +1,7 @@
 # Modern Cosmopolitan
----
 
+ * [x] Skal shakes
+ 
 ## Ingridienser
 * Limejuice
 * Cranberry Juice
