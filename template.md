@@ -1,8 +1,7 @@
 # Template
 
- * [ ] Skal shakes
+* [ ] Skal shakes
 
 ## Ingridienser
-
 
 ## Howto

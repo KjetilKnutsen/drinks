@@ -1,8 +1,9 @@
 # Floridora
 
- * [x] Skal shakes
+* [x] Skal shakes
 
 ## Ingridienser
+
 * Sukkersirup
 * Bringbær
 * Lime juice
@@ -10,6 +11,7 @@
 * Knust is
 
 ## Howto
+
 1. 15ml sukkersirup
 2. 4 bringbær
 3. 20 ml lime juice
@@ -18,4 +20,3 @@
 6. Legg til knust is
 7. Shake
 8. Hell i glass med knust is på topp
-

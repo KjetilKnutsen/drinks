@@ -1,14 +1,16 @@
 # Ivy Gimlet
 
- * [ ] Skal shakes
+* [ ] Skal shakes
 
 ## Ingridienser
+
 * Ferske Mintblad
 * Lime juice
 * Sukker sirup
 * Vodka
 
 ## Howto
+
 1. Mintblad
 2. 30 ml lime juice
 3. 20 ml sukkersirup

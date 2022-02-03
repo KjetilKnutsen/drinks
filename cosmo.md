@@ -1,8 +1,9 @@
 # Modern Cosmopolitan
 
- * [x] Skal shakes
- 
+* [x] Skal shakes
+
 ## Ingridienser
+
 * Limejuice
 * Cranberry Juice
 * Cointreau
@@ -10,6 +11,7 @@
 * Sitron avkutt
 
 ## Howto
+
 1. 30 ml limejuice
 2. 30 ml cranberry juice
 3. 30 ml cointreau
