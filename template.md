@@ -1,6 +1,7 @@
 # Template
 
 * [ ] Skal shakes
+* Glass:
 
 ## Ingridienser
 
